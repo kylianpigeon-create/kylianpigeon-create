@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="URL_BANNIERE" width="100%" />
+<img src="kpcom_white_pp.jpg" width="100%" />
 
 # Kylian Pigeon here 🔥
 
