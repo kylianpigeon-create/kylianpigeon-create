@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="kpcom_white_pp.jpg" width="100%" />
+<img src="assets/kpcom_white_pp.jpg" width="120" />
 
-# Kylian Pigeon here 🔥
+# Kylian Pigeon 🐦
 
-### Namaste 🙏 I'm Kylian
+### Designing products, interfaces & creative tools.
 
 </div>
 
@@ -12,41 +12,39 @@
 
 ## 🪶 About Me
 
-<img align="right" src="URL_GIF_OU_IMAGE" width="300"/>
+Designer & developer focused on:
 
-- 🎨 Directeur artistique / UX UI Designer
-- 💻 Développeur web
-- 🌱 J’apprends actuellement Astro, PrestaShop, automatisation
-- ⚡ J’aime créer des interfaces propres et utiles
+- 🎨 UX/UI systems  
+- 🌐 Creative web experiences  
+- 🏪 Branding for retail & boutiques  
+- ⚙️ Automation tools & workflows  
+- 🤖 AI-assisted content production  
 
 ---
 
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,astro,figma,photoshop,nodejs,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,astro,figma,photoshop,nodejs,mysql,github,notion" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 Design
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KylianPigeon&show_icons=true&theme=tokyonight" />
-</p>
+Figma • Photoshop • After Effects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KylianPigeon&layout=compact&theme=tokyonight" />
-</p>
+## 💻 Frontend
 
----
+React • Astro • Vite • Tailwind
 
-## 🧰 Tech Stack
+## ⚙ Backend
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+Node.js • Express • PHP • MySQL
+
+## 🤖 Automation & AI
+
+Photoshop ExtendScript • API integrations • AI prompting
 
 ---
 
