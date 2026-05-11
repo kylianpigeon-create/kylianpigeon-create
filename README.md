@@ -10,25 +10,33 @@
 
 ---
 
+<div>
+
 ## 🪶 About Me
 
-Designer & developer focused on:
+Designer & developer specialized in:
 
-- 🎨 UX/UI systems  
-- 🌐 Creative web experiences  
-- 🏪 Branding for retail & boutiques  
-- ⚙️ Automation tools & workflows  
-- 🤖 AI-assisted content production  
+🎨 UX/UI systems  
+🌐 Creative web experiences  
+🏪 Branding for retail stores & boutiques  
+⚙️ Automation tools & workflows  
+🤖 AI-assisted content creation  
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,astro,figma,photoshop,nodejs,mysql,github,notion" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,astro,vite,bootstrap,wordpress,unity,figma,photoshop,illustrator,github,vscode,notion,obsidian,linux,windows,apple,cs" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🎨 Design
 
@@ -38,20 +46,24 @@ Figma • Photoshop • After Effects
 
 React • Astro • Vite • Tailwind
 
-## ⚙ Backend
+## ⚙️ Backend
 
 Node.js • Express • PHP • MySQL
 
 ## 🤖 Automation & AI
 
-Photoshop ExtendScript • API integrations • AI prompting
+Photoshop ExtendScript • API Integrations • AI Prompt Engineering
+
+</div>
 
 ---
 
+<div align="center">
+
 ## ☕ Support Me
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/TONLIEN">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
+<a href="https://www.buymeacoffee.com/TONLIEN">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
+
+</div>
